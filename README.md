@@ -3,7 +3,7 @@
 <img width="40%" align="right" src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg">
 <!-- Typing SVG by mradulvarshney - https://github.com/rahulsingh7906/readme-typing-svg -->
 <p align="left">
-  <a href="https://github.com//readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Ajay%20Raghav!;I%20Love%20To%20Train%20LLMs;I%20Am%20A%20MachineLearning%20Enthusiast%20❤&font=Fira%20Code&left=true&width=440&height=45&color=#A020F0&vleft=true&size=20"></a>
+  <a href="https://github.com//readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Ajay%20Raghav!;I%20Love%20To%20Coding;I%20Am%20A%20MachineLearning%20Enthusiast%20❤&font=Fira%20Code&left=true&width=440&height=45&color=#A020F0&vleft=true&size=20"></a>
 </p>
 
 I am Ajay Raghav, currently pursuing my B.Tech degree in Computer Science.
